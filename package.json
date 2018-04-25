@@ -11,12 +11,23 @@
     "type": "git",
     "url": "git+https://github.com/R10burning/homeNode.git"
   },
-  "keywords": [
-  ],
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "mysql": "^2.15.0",
+    "poll": "0.0.1"
+  },
+  "keywords": [],
   "author": "r10burning",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/R10burning/homeNode/issues"
   },
-  "homepage": "https://github.com/R10burning/homeNode#readme"
+  "homepage": "https://github.com/R10burning/homeNode#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3"
+  }
 }
